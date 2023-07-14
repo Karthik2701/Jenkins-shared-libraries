@@ -1,3 +1,3 @@
-def call () {
+def call() {
   junit '**/target/surefire-reports/*.xml'
 }
